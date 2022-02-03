@@ -1,0 +1,34 @@
+h1{
+    font-family: verdana;
+    text-align: center;
+    color: white;
+}
+
+body{background: black;}
+
+h2{
+    color: white;
+    font-family: Bahnschrift SemiCondensed;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    justify-content: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: black;
+    justify-content: center;
+  }
+  .button1 {background-color: #ffffff;}  
